@@ -106,7 +106,7 @@ const element = (
 );
 ```
 
-### JSX Prevents Injection Attacks
+### JSX Prevents Attacks
 
 It is safe to embed user input in JSX:
 
